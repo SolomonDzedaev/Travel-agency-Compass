@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../game-history"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tourism of sunday"
+	}
+}
